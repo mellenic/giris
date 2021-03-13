@@ -1,2 +1,2 @@
-# giris
+# Giriş
 Merhaba
